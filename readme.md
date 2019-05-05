@@ -1,1 +1,1 @@
-# Lah -Ganen
+# Tidak dapat push github karena besar file melebihi 100mb
